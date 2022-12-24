@@ -1,0 +1,62 @@
+<style>
+  body {
+    background-color: #f1ebe7;
+  }
+
+  body {
+  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Lato', sans-serif;
+  font-family: 'Lora', serif;
+  }
+
+  img {
+    margin-top: 0.5em ;
+    margin-left: 0.5em ;
+  }
+
+  div.profile {
+    max-width: 375px ;
+  }
+
+  div.poster {
+    position: absolute ;
+    top: 0.5em ;
+    left: 600px ;
+    max-width: 500px ;
+  }
+
+
+  .par1 {
+    font-family: "Lora" ;
+    font-size: 20px;
+    margin-top: 32px ;
+    margin-left: 32px ;
+    margin-bottom: 0px ;
+  }
+
+  .par3 {
+    font-family: "Lato" ;
+    font-size: 16px ;
+    font-weight: 300 ;
+    margin-top: 0em ;
+    margin-left: 32px ;
+    margin-right: 32px ;
+    margin-bottom: .0em ;
+  }
+
+  .par2 {
+    font-family: "Lato" ;
+    font-size: 16px ;
+    font-weight: 400 ;
+    margin-top: 1em ;
+    margin-left: 32px ;
+    margin-right: 32px ;
+    margin-bottom: .0em ;
+  }
+
+  a:link {
+    text-decoration: none ;
+    color: 0000CD ;
+  }
+
+</style>
