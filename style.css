@@ -68,7 +68,7 @@ span {
     text-decoration: none;
 }
 hr {
-    height: .5px; /* Adjust the height to make it thicker */
+    height: .9px; /* Adjust the height to make it thicker */
     border: none;
     background-color: #333; /* Adjust the color of the thematic breaker */
     margin: 0; /* Remove default margin */
