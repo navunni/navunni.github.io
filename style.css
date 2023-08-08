@@ -42,3 +42,28 @@ img,
 span {
   display: inline-block;
 }
+.profile p {
+    font-size: 16px;
+    margin-bottom: 4px;
+    display: flex;
+    align-items: center; /* Vertically align text and icons */
+}
+
+.profile p a {
+    text-decoration: none;
+    color: #0000CD;
+    margin-right: 4px;
+}
+
+.profile p .vertical-bar {
+    content: "|"; /* Add vertical bar content */
+    margin: 0 6px;
+}
+
+.social-icons a {
+    display: inline-block;
+    margin-right: 1em;
+    font-size: 20px;
+    color: #333;
+    text-decoration: none;
+}
