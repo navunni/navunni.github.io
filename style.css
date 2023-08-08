@@ -1,88 +1,44 @@
-/* Reset default margin and padding */
-body, h1, h2, h3, p, ul, li {
-    margin: 0;
-    padding: 0;
-}
-
 body {
-    font-family: "DejaVu Sans", sans-serif;
-    background-color: #000;
-    color: #ccc;
+  overflow-y: scroll;
+  font: 16px monospace, monospace;
 }
 
-header {
-    background-color: #333;
-    color: #fff;
-    padding: 20px;
-    text-align: center;
+pre {
+  overflow-x: hidden;
 }
 
-header h1 {
-    font-size: 36px;
-    margin-bottom: 10px;
+.t {
+  text-decoration: none;
 }
 
-header p {
-    font-size: 18px;
-    opacity: 0.8;
+@media (max-width: 960px) {
+  body {
+    font-size: 1.94vw;
+  }
 }
 
-nav {
-    background-color: #111;
-    color: #fff;
-    padding: 10px;
-    text-align: center;
+@media (prefers-color-scheme: light) {
+  #g {
+    filter: invert(1);
+  }
 }
 
-nav a {
-    color: #ccc;
-    text-decoration: none;
-    margin: 0 15px;
-    font-size: 16px;
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #2B213C;
+    color: #B2A8B6;
+  }
+
+  a {
+    color: #9BBFD4;
+  }
 }
 
-nav a:hover {
-    color: #fff;
-    text-decoration: underline;
+img,
+#b {
+  max-width: 80ch;
 }
 
-section {
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 40px 20px;
-    background-color: #222;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
-}
-
-section h2 {
-    font-size: 28px;
-    margin-bottom: 20px;
-    color: #fff;
-}
-
-ul {
-    list-style: none;
-}
-
-ul li {
-    font-size: 18px;
-    margin-bottom: 10px;
-    color: #ccc;
-}
-
-footer {
-    text-align: center;
-    background-color: #111;
-    color: #fff;
-    padding: 10px;
-}
-
-a {
-    color: #ccc;
-    text-decoration: none;
-}
-
-a:hover {
-    color: #fff;
-    text-decoration: underline;
+span {
+  display: inline-block;
 }
