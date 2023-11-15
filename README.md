@@ -1,8 +1,8 @@
 # Navaneeth Unnikrishnan 
-My Personal Website
+My Website
 
 nav.unnikrishnan@nyu.edu
 
-I'm currently a freshman in NYU's class of 2026 majoring in Human-Computer Interaction, Behavioral Economics, and Philosophy. 
-Please contact me at the email above.
+I'm a sophomore in NYU's class of 2026, majoring in an interdisciplinary Concentration of Data Science, Economics, & Philosophy. 
+Please get in touch with me at the email above.
 
