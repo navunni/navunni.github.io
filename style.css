@@ -6,47 +6,50 @@ body {
     color: #333;
 }
 
+.site-header, .content-container, footer {
+    padding-left: 5%; /* Adjust this value as needed to align with the header content */
+    padding-right: 5%; /* Ensures padding is symmetrical */
+}
+
 .site-header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 5%; /* Adjust this to ensure alignment */
-    background-color: #f0f0f0;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
-.header-content {
+.header-content, .navbar {
     display: flex;
     align-items: center;
-    width: 100%; /* Ensure the header content spans the full width */
 }
 
-.name, .navbar {
-    display: inline-flex; /* Use inline-flex for better alignment control */
-    margin: 0; /* Remove default margins */
-    padding: 0; /* Remove default padding */
-}
-
-.navbar {
-    justify-content: flex-end;
-    margin-left: auto; /* Push the navbar to the right */
+.name {
+    margin-right: auto; /* Ensures everything else aligns to the right */
 }
 
 .navbar a {
+    margin-left: 20px; /* Space between nav items */
     text-decoration: none;
     color: #333;
-    padding: 10px; /* Adjust link padding instead of margin for spacing */
-    font-size: 16px;
 }
 
 .content-container {
     max-width: 960px; /* Or adjust based on your preference */
     margin: 0 auto; /* Center the container */
-    padding: 20px 5%; /* Match the header's horizontal padding */
+    padding-top: 20px; /* Space above the content */
+    padding-bottom: 20px; /* Space below the content */
+}
+
+footer {
+    text-align: center; /* Center the copyright text */
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 @media (max-width: 960px) {
-    .content-container, .site-header {
-        padding: 10px 5%; /* Adjust padding for smaller screens */
+    .site-header, .content-container, footer {
+        padding-left: 10px;
+        padding-right: 10px;
     }
 }
-
