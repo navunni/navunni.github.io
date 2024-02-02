@@ -6,11 +6,14 @@ body {
 }
 
 .site-header {
+    padding: 10px;
+    background-color: #f0f0f0;
+}
+
+.header-content {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px;
-    background-color: #f0f0f0; /* Light grey background */
 }
 
 .name {
@@ -34,8 +37,14 @@ body {
     color: #0000CD;
 }
 
+.divider {
+    height: 1px;
+    background-color: #333;
+    margin-top: 10px;
+}
+
 @media (max-width: 960px) {
-    .site-header {
+    .header-content {
         flex-direction: column;
     }
 
@@ -43,3 +52,4 @@ body {
         margin-top: 10px;
     }
 }
+
