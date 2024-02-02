@@ -6,50 +6,59 @@ body {
     color: #333;
 }
 
-.site-header, .content-container, footer {
-    padding-left: 5%; /* Adjust this value to match the alignment of your content */
-    padding-right: 5%;
-}
-
 .site-header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding: 10px 5%;
+    background-color: #f0f0f0;
 }
 
 .header-content {
     display: flex;
-    flex: 1; /* This ensures that the header content uses all available space */
     align-items: center;
+    width: 100%;
 }
 
 .name {
-    flex-grow: 0; /* Ensures the name doesn't grow to push other elements */
-    padding-right: 20px; /* Adjust this to ensure alignment with the content below */
+    margin-right: auto;
+    padding-right: 20px; /* Adjust if necessary to align with the content below */
 }
 
 .navbar {
     display: flex;
-    justify-content: flex-end;
-    flex-grow: 1; /* Allows the navigation to grow and push the social icons to the end */
+    align-items: center;
 }
 
-.navbar a, .navbar i {
-    padding: 0 10px; /* Spacing between navigation items */
+.navbar a {
     text-decoration: none;
     color: #333;
+    padding: 10px 20px; /* This padding creates the space between the items */
+}
+
+/* Remove the right padding for the last item in the navbar */
+.navbar a:last-child {
+    padding-right: 10px;
+}
+
+/* Specific class for social icons if you have other links in your navbar */
+.navbar .social-icon {
+    padding-right: 20px;
+}
+
+.navbar .social-icon:last-child {
+    padding-right: 10px;
 }
 
 .content-container {
     max-width: 960px; /* Adjust based on your preference */
-    margin: 0 auto; /* Center the container */
+    margin: 0 auto; /* Centers the container */
+    padding: 20px 5%; /* Horizontal padding to match the site header */
 }
 
 footer {
-    text-align: center; /* Center the copyright text */
-    padding: 10px 5%; /* Match the horizontal padding of the header and content container */
+    text-align: center;
+    padding: 10px 5%;
 }
 
 @media (max-width: 960px) {
@@ -57,6 +66,6 @@ footer {
         padding: 10px;
     }
     .name, .navbar a, .navbar i {
-        padding: 0 5px; /* Less padding for smaller screens */
+        padding: 0 5px;
     }
 }
