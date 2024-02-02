@@ -10,7 +10,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 5%; /* Adjust padding for alignment */
+    padding: 10px 5%; /* Example padding for alignment */
     background-color: #f0f0f0;
 }
 
@@ -33,7 +33,7 @@ body {
 .content-container {
     max-width: 960px; /* Adjust based on your preference */
     margin: 0 auto; /* Center the container */
-    padding: 20px;
+    padding: 20px 5%; /* Match the header's horizontal padding */
 }
 
 @media (max-width: 960px) {
@@ -41,7 +41,6 @@ body {
         margin-left: 10px; /* Reduce spacing for smaller screens */
     }
     .content-container {
-        padding: 10px;
+        padding: 10px 5%; /* Adjust padding for smaller screens */
     }
 }
-
