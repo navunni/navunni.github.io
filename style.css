@@ -8,16 +8,17 @@ body {
 
 .site-header {
     display: flex;
-    justify-content: center; /* Align header content to the center */
+    justify-content: center;
     align-items: center;
     padding: 10px 0;
     background-color: #f0f0f0;
-    border-bottom: 1px solid #333; /* This adds the divider line */
+    border-bottom: 1px solid #333;
 }
 
 .header-content {
     display: flex;
     align-items: center;
+    width: 100%;
 }
 
 .name, .navbar {
@@ -27,19 +28,39 @@ body {
 .navbar {
     display: flex;
     align-items: center;
-    margin-left: 20px; /* Space between name and navbar */
+    margin-left: 20px;
 }
 
 .navbar a {
     text-decoration: none;
     color: #333;
-    padding: 0 10px; /* Space between nav items */
+    padding: 0 10px;
+}
+
+.navbar a:last-child {
+    padding-right: 0;
 }
 
 .content-container {
     max-width: 960px;
-    margin: 20px auto; /* Centers the container with margin on top and bottom */
-    padding: 0 5%; /* Horizontal padding */
+    margin: 20px auto;
+    padding: 0 5%;
+}
+
+.bio {
+    padding-bottom: 20px;
+}
+
+.contact h2 {
+    margin-top: 40px;
+    font-size: 24px;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    background-color: #333;
+    margin: 10px 0;
 }
 
 footer {
