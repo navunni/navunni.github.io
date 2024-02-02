@@ -10,37 +10,43 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 5%; /* Example padding for alignment */
+    padding: 0 5%; /* Adjust this to ensure alignment */
     background-color: #f0f0f0;
 }
 
-.header-content, .navbar {
+.header-content {
     display: flex;
     align-items: center;
+    width: 100%; /* Ensure the header content spans the full width */
 }
 
-.name {
-    margin-right: auto; /* Ensures everything else aligns to the right */
+.name, .navbar {
+    display: inline-flex; /* Use inline-flex for better alignment control */
+    margin: 0; /* Remove default margins */
+    padding: 0; /* Remove default padding */
+}
+
+.navbar {
+    justify-content: flex-end;
+    margin-left: auto; /* Push the navbar to the right */
 }
 
 .navbar a {
-    margin-left: 20px; /* Space between nav items */
     text-decoration: none;
     color: #333;
+    padding: 10px; /* Adjust link padding instead of margin for spacing */
     font-size: 16px;
 }
 
 .content-container {
-    max-width: 960px; /* Adjust based on your preference */
+    max-width: 960px; /* Or adjust based on your preference */
     margin: 0 auto; /* Center the container */
     padding: 20px 5%; /* Match the header's horizontal padding */
 }
 
 @media (max-width: 960px) {
-    .navbar a {
-        margin-left: 10px; /* Reduce spacing for smaller screens */
-    }
-    .content-container {
+    .content-container, .site-header {
         padding: 10px 5%; /* Adjust padding for smaller screens */
     }
 }
+
