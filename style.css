@@ -1,6 +1,6 @@
 body {
   overflow-y: scroll;
-  font: 16px monospace, monospace;
+  font: 16px monospace,
 }
 
 pre {
