@@ -1,4 +1,4 @@
-body {
+bbody {
     margin: 0;
     padding: 0;
     font: 16px monospace, monospace;
@@ -8,52 +8,38 @@ body {
 
 .site-header {
     display: flex;
-    justify-content: space-between;
+    justify-content: center; /* Align header content to the center */
     align-items: center;
-    padding: 10px 5%;
+    padding: 10px 0;
     background-color: #f0f0f0;
+    border-bottom: 1px solid #333; /* This adds the divider line */
 }
 
 .header-content {
     display: flex;
     align-items: center;
-    width: 100%;
 }
 
-.name {
-    margin-right: auto;
-    padding-right: 20px; /* Adjust if necessary to align with the content below */
+.name, .navbar {
+    padding: 0 20px;
 }
 
 .navbar {
     display: flex;
     align-items: center;
+    margin-left: 20px; /* Space between name and navbar */
 }
 
 .navbar a {
     text-decoration: none;
     color: #333;
-    padding: 10px 20px; /* This padding creates the space between the items */
-}
-
-/* Remove the right padding for the last item in the navbar */
-.navbar a:last-child {
-    padding-right: 10px;
-}
-
-/* Specific class for social icons if you have other links in your navbar */
-.navbar .social-icon {
-    padding-right: 20px;
-}
-
-.navbar .social-icon:last-child {
-    padding-right: 10px;
+    padding: 0 10px; /* Space between nav items */
 }
 
 .content-container {
-    max-width: 960px; /* Adjust based on your preference */
-    margin: 0 auto; /* Centers the container */
-    padding: 20px 5%; /* Horizontal padding to match the site header */
+    max-width: 960px;
+    margin: 20px auto; /* Centers the container with margin on top and bottom */
+    padding: 0 5%; /* Horizontal padding */
 }
 
 footer {
@@ -62,10 +48,10 @@ footer {
 }
 
 @media (max-width: 960px) {
-    .site-header, .content-container, footer {
-        padding: 10px;
-    }
-    .name, .navbar a, .navbar i {
+    .name, .navbar a {
         padding: 0 5px;
+    }
+    .content-container, footer {
+        padding: 10px;
     }
 }
