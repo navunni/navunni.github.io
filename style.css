@@ -1,55 +1,47 @@
 body {
-    overflow-y: scroll;
+    margin: 0;
+    padding: 0;
     font: 16px monospace, monospace;
     background: #f0f0f0;
     color: #333;
 }
 
 .site-header {
-    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 5%; /* Adjust padding for alignment */
     background-color: #f0f0f0;
 }
 
-.header-content {
+.header-content, .navbar {
     display: flex;
-    justify-content: space-between;
     align-items: center;
 }
 
 .name {
-    margin: 0;
-    padding: 0 20px;
-}
-
-.navbar {
-    display: flex;
-    align-items: center;
+    margin-right: auto; /* Ensures everything else aligns to the right */
 }
 
 .navbar a {
-    margin: 0 10px;
+    margin-left: 20px; /* Space between nav items */
     text-decoration: none;
     color: #333;
     font-size: 16px;
 }
 
-.navbar a:hover {
-    color: #0000CD;
-}
-
-.divider {
-    height: 1px;
-    background-color: #333;
-    margin-top: 10px;
+.content-container {
+    max-width: 960px; /* Adjust based on your preference */
+    margin: 0 auto; /* Center the container */
+    padding: 20px;
 }
 
 @media (max-width: 960px) {
-    .header-content {
-        flex-direction: column;
+    .navbar a {
+        margin-left: 10px; /* Reduce spacing for smaller screens */
     }
-
-    .navbar {
-        margin-top: 10px;
+    .content-container {
+        padding: 10px;
     }
 }
 
