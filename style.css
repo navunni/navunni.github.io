@@ -7,8 +7,8 @@ body {
 }
 
 .site-header, .content-container, footer {
-    padding-left: 5%; /* Adjust this value as needed to align with the header content */
-    padding-right: 5%; /* Ensures padding is symmetrical */
+    padding-left: 5%; /* Adjust this value to match the alignment of your content */
+    padding-right: 5%;
 }
 
 .site-header {
@@ -19,37 +19,44 @@ body {
     padding-bottom: 10px;
 }
 
-.header-content, .navbar {
+.header-content {
     display: flex;
+    flex: 1; /* This ensures that the header content uses all available space */
     align-items: center;
 }
 
 .name {
-    margin-right: auto; /* Ensures everything else aligns to the right */
+    flex-grow: 0; /* Ensures the name doesn't grow to push other elements */
+    padding-right: 20px; /* Adjust this to ensure alignment with the content below */
 }
 
-.navbar a {
-    margin-left: 20px; /* Space between nav items */
+.navbar {
+    display: flex;
+    justify-content: flex-end;
+    flex-grow: 1; /* Allows the navigation to grow and push the social icons to the end */
+}
+
+.navbar a, .navbar i {
+    padding: 0 10px; /* Spacing between navigation items */
     text-decoration: none;
     color: #333;
 }
 
 .content-container {
-    max-width: 960px; /* Or adjust based on your preference */
+    max-width: 960px; /* Adjust based on your preference */
     margin: 0 auto; /* Center the container */
-    padding-top: 20px; /* Space above the content */
-    padding-bottom: 20px; /* Space below the content */
 }
 
 footer {
     text-align: center; /* Center the copyright text */
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding: 10px 5%; /* Match the horizontal padding of the header and content container */
 }
 
 @media (max-width: 960px) {
     .site-header, .content-container, footer {
-        padding-left: 10px;
-        padding-right: 10px;
+        padding: 10px;
+    }
+    .name, .navbar a, .navbar i {
+        padding: 0 5px; /* Less padding for smaller screens */
     }
 }
