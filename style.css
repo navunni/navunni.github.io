@@ -7,18 +7,16 @@ body {
 }
 
 .site-header {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 10px 0;
+    padding: 10px 5%;
     background-color: #f0f0f0;
-    border-bottom: 1px solid #333;
 }
 
 .header-content {
+    max-width: 960px;
+    margin: 0 auto;
     display: flex;
+    justify-content: space-between;
     align-items: center;
-    width: 100%;
 }
 
 .name, .navbar {
@@ -28,7 +26,6 @@ body {
 .navbar {
     display: flex;
     align-items: center;
-    margin-left: 20px;
 }
 
 .navbar a {
@@ -41,13 +38,14 @@ body {
     padding-right: 0;
 }
 
-.content-container {
+.content-container, footer {
+    padding-left: 5%;
+    padding-right: 5%;
     max-width: 960px;
     margin: 20px auto;
-    padding: 0 5%;
 }
 
-.bio {
+.bio, .contact {
     padding-bottom: 20px;
 }
 
@@ -60,7 +58,8 @@ hr {
     border: none;
     height: 2px;
     background-color: #333;
-    margin: 10px 0;
+    margin: 20px auto;
+    width: 100%; /* Ensures the divider stretches across the container width */
 }
 
 footer {
@@ -74,5 +73,9 @@ footer {
     }
     .content-container, footer {
         padding: 10px;
+    }
+    .header-content, .content-container, footer {
+        padding-left: 10px;
+        padding-right: 10px;
     }
 }
