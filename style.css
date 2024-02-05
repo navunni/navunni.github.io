@@ -19,6 +19,14 @@ body {
     align-items: center;
 }
 
+hr {
+    border: none;
+    height: 2px;
+    background-color: #333;
+    margin: 20px auto;
+    width: 100%; /* Ensures the divider stretches across the container width */
+}
+
 .name, .navbar {
     padding: 0 20px;
 }
