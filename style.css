@@ -78,5 +78,11 @@ footer {
         padding-left: 10px;
         padding-right: 10px;
     }
+.divider-name, .divider-contact {
+    border: none;
+    height: 2px;
+    background-color: #333;
+    margin: 20px auto;
+    width: 80%; 
 }
 
