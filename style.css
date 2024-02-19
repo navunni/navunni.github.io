@@ -24,7 +24,7 @@ hr {
     height: 2px;
     background-color: #333;
     margin: 20px auto;
-    width: 100%; /* Ensures the divider stretches across the container width */
+    width: 100%;
 }
 
 .name, .navbar {
@@ -62,14 +62,6 @@ hr {
     font-size: 24px;
 }
 
-hr {
-    border: none;
-    height: 2px;
-    background-color: #333;
-    margin: 20px auto;
-    width: 100%; /* Ensures the divider stretches across the container width */
-}
-
 footer {
     text-align: center;
     padding: 10px 5%;
@@ -87,3 +79,4 @@ footer {
         padding-right: 10px;
     }
 }
+
