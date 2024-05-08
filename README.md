@@ -1,8 +1,9 @@
-# Navaneeth Unnikrishnan 
-My Website
+# Nav Unnikrishnan 
+Hi there!
 
-nav.unnikrishnan@nyu.edu
+I'm a sophomore in NYU's class of 2026, majoring in an interdisciplinary Concentration of Data Science and The Ethics of Innovation. 
 
-I'm a sophomore in NYU's class of 2026, majoring in an interdisciplinary Concentration of Data Science, Statistics, and The Ethics of Innovation. 
-Please get in touch with me at the email above.
+You can find me or contact me at [firstname]dot[lastname]@[nyu]dot[edu]. 
+
+
 
