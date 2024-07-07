@@ -1,4 +1,4 @@
-Hi there! I'm Navaneeth. 
+# Hi there! I'm Navaneeth. 
 
 I'm a rising junior in NYU's class of 2026. I'm currently working at the NYU Grossman School of Medicine, focusing on improving the quality of intervention programs within NYC homeless service systems. 
 
