@@ -15,9 +15,6 @@ Currently, I'm working in research @ NYU Grossman School of Medicine, within the
 
 I'm super passionate about roles that involve utilizing data to solve complex problems within different industries, whether it be enterprise-level or public sector oriented. 
 
-In my free time, I enjoy music production, watching the Premier League, and getting my hands on any free politics/history-related book within the [Internet Archive](archive.org).
-
-
 ## [Resume](assets/resume.pdf)
 
 You can view/download my resume by clicking the link above.
