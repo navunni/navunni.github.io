@@ -9,11 +9,13 @@ title: Home
 
 Hi, I'm Nav! I'm a junior at NYU studying Data Science & Ethical Innovation Systems. 
 
-Currently, I'm working in research @ **NYU Grossman School of Medicine**, within the [Health Evaluation & Analytics Lab](https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/health-behavior/section-health-choice-policy-evaluation/research/health-evaluation-analytics-lab). 
+This summer, I will be interning at Wells Fargo within Auto - Product, Analytics, and Digital Innovation. 
+
+Previously, I worked in research @ **NYU Grossman School of Medicine**, within the [Health Evaluation & Analytics Lab](https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/health-behavior/section-health-choice-policy-evaluation/research/health-evaluation-analytics-lab). 
 
 <div class="clearfix"></div>
 
-I'm super passionate about roles that involve utilizing data to solve complex problems within different industries, whether it be enterprise-level or public sector oriented. 
+I'm super passionate about roles that involve utilizing data to solve complex problems within different industries, whether it be enterprise-level or public sector oriented. I am also a board member of the [Albert Gallatin Founders Fund](https://forms.gallatin.nyu.edu/node/782), NYU's student-run venture fund.
 
 ## [Resume](assets/resume.pdf)
 
