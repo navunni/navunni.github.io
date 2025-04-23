@@ -9,7 +9,7 @@ title: Home
 
 Hi, I'm Nav! I'm a junior at NYU studying Data Science & Ethical Innovation Systems. 
 
-This summer, I will be interning at Wells Fargo within Auto - Product, Analytics, and Digital Innovation. 
+This summer, I will be interning at Wells Fargo as a Consumer Lending (Product & Analytics) Analyst.
 
 Previously, I worked in research @ **NYU Grossman School of Medicine**, within the [Health Evaluation & Analytics Lab](https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/health-behavior/section-health-choice-policy-evaluation/research/health-evaluation-analytics-lab). 
 
