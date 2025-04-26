@@ -15,5 +15,5 @@ Previously, I worked in research at the **NYU Grossman School of Medicine**, wit
 
 I'm super passionate about roles that involve utilizing data to solve complex problems within different industries, whether it be enterprise-level or public sector oriented. 
 
-------------------
+---
 
