@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Navaneeth Unnikrishnan
+# Nav Unnikrishnan
 
 <img src="/assets/headshot.jpeg" alt="My Headshot" class="headshot">
 
