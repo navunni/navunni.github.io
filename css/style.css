@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
 
-
 body {
     font-family: 'Space Mono', monospace;
     letter-spacing: 1.2px;
@@ -9,8 +8,8 @@ body {
     font-size: 1.1em;
     color:#1A181B;
     margin: 2em auto; 
-    max-width: 900px;
-    padding: 0 1em;
+    max-width: 1000px;
+    padding: 0 2em;
 }
 
 h1 {
@@ -22,22 +21,15 @@ img {
     width: 80%;
 }
 
-a:link{
-    color: #1A181B;
-    text-decoration: underline #B9D6F2;
-    -webkit-text-decoration: underline wavy #B9D6F2;
+a {
+  color: #1A181B;
+  text-decoration: underline #B9D6F2;
+  -webkit-text-decoration: underline wavy #B9D6F2;
+  transition: color 0.3s;
 }
 
-a:hover { 
-    color: #B9D6F2;
-}
-
-a:focus { 
-    color: #B9D6F2;
-}
-
-a:active { 
-    color: #B9D6F2;
+a:hover, a:focus, a:active {
+  color: #B9D6F2;
 }
 
 .hiddenimg {
@@ -84,3 +76,30 @@ a:active {
 .clearfix {
     clear: both;        
 }
+
+nav.topnav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid #ddd;
+}
+
+.nav-left a, .nav-right a {
+  margin-right: 1em;
+  text-decoration: none;
+  color: #1A181B;
+  font-weight: bold;
+}
+
+.nav-left a:hover, .nav-right a:hover {
+  color: #B9D6F2;
+}
+
+.icon {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+}
+
