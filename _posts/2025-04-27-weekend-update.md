@@ -12,7 +12,7 @@ As I mentioned yesterday, I'm currently in the midst of preparing for my final e
 
 Aside from all the academic stresses mentioned, I was able to go to a Indian classical music concert, after a gap of few months. As much I love to perform concerts myself and interact with the audience, it is even more inspiring to listen to others. Being a keen listener, in my opinion, is arguably one of the most important parts of developing and refining one's craft, regardless of the genre of music. I snidely pride myself on having an "eclectic taste", as much as I hate that saying. 
 
-This concert was by the husband-and-wife duo, violinist Charumathi Raghuaraman and mridangist Anantha R. Krishnan. I've listened to numerous recordings of them online, specifically the former's rendition of different thillanas composed by the maestro Lalgudi Jayaraman, but this was the first in-person violin concert that I had gone to in over 7-8 years. 
+This concert was by the husband-and-wife duo, Carnatic violinist Charumathi Raghuaraman and mridangist Anantha R. Krishnan. I've listened to numerous recordings of them online, specifically the former's rendition of different thillanas composed by the maestro Lalgudi Jayaraman, but this was the first in-person violin concert that I had gone to in over 7-8 years. 
 
 It was held at Columbia, and kudos to the students there for re-starting up their on-campus Indian classical arts club and taking initiative to bring on different artists and conduct student concerts periodically throughout the school year. I also got to listen to the concert with one of my closest friends there as well, Aditya Phatak, who is a fantastic tabla player and musician in his own right. 
 
