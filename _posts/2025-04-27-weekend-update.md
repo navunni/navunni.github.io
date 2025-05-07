@@ -18,7 +18,7 @@ It was held at Columbia, and kudos to the students there for re-starting up thei
 
 Throughout the concert, Aditya and I played our own game of trying to guess the ragas that were being played on the violin, while simultaneously trying to keep *tala* during the brilliant *thaniavarthanam*. The concert, to put it simply, was absolutely splendid. Every single piece, from the opening *kAmbOji* varnam to the *behAg thillana*, had its own identity, beauty, and panache with which it was played. The main piece that Charumathi-ji played was the *KalyANi* masterpiece *Ethavunara* composed by Tyagaraja. I've heard numerous brilliant renditions of this kriti by different vidwans and vidushis, but this was sublime. The improvisations in the *alapana* were marvelous, and the *kalpanaswaras* were innovative and in perfect alignment with the mridangam. 
 
-ULtimately, I'm glad that I was able to carve out time last Sunday to go and listen to the both of them. For now, that is all, but I have to go back to actually working on my assignments! 
+Ultimately, I'm glad that I was able to carve out time last Sunday to go and listen to the both of them. For now, that is all, but I have to go back to actually working on my assignments! 
 
 Till next time. 
 
