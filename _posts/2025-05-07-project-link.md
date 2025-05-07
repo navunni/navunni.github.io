@@ -5,7 +5,7 @@ date: 2025-05-07
 ---
 
 # Project - Capstone (source code in post)
-ad
+
 Hello world!
 
 I haven't had too much time to write a blog entry in the last two weeks, primarily due to finals, of which I have 2 left. However, I wanted to share a final project that I submitted last week for my undergraduate data science class at NYU. This is the [source code](https://github.com/navunni/capstone-project/)
