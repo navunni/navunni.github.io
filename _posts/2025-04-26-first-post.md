@@ -6,7 +6,7 @@ date: 2025-04-26
 
 # Welcome!
 
-Hello all! This will function as a blog for my website that I've revised and re-designed to look more cleaner and translucent. 
+Hello all! This will function as a blog for my website that I've revised and re-designed to look more clean and transparent.
 
 Right now, I'm in the midst of planning my senior project proposal and preparation for final exams. This is my penultimate semester of college, and it is tough to digest how fast time has passed since stepping foot into my freshman dorm for the first time. 
 
