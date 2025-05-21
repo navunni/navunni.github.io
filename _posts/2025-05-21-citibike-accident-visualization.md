@@ -18,7 +18,7 @@ I used [Leaflet.js](https://leafletjs.com/) to render the map and display each a
 My main goal in building this visualization was to explore civic data in a visual, user-oriented way. I've previously worked with geospatial data and the Google Maps API as a research assistant at the NYU School of Medicine. Still, I wanted to build a standalone website (without logins/libraries) and practice working with such data through JavaScript.
 
 
-[View the interactive map here!](https://navunni.com/citibike-accident-visualization/)
+You can [view the interactive map here!](https://navunni.com/citibike-accident-visualization/)
 
 
 Working with public data helped me think more about how we present existing information. A "simple map" still consists of thousands of data points (~70,000).
