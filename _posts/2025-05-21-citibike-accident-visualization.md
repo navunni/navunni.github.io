@@ -25,3 +25,5 @@ Working with public data helped me think more about how we present existing info
 
 
 I plan to do more short visual projects like this using NYC datasets and civic information APIs. It's a shame Google shut down its Civic Information API last month.
+
+Till next time.
