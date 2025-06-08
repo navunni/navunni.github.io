@@ -20,7 +20,7 @@ Because I realized that I've spent **every single summer since starting college 
 
 All of them. I'm **3/3** so far. 
 
-- **Summer 2023** -> I worked for a SF startup and did research at NYU remotely. Concurrently, I spent lots of precious and fun time with my family. 
+- **Summer 2023** -> I worked for an SF startup and did research at NYU remotely. Concurrently, I spent lots of precious and fun time with my family. 
 - **Summer 2024** -> Research went remote again; however, I spent two/three fun weeks in Scotch Plains, NJ and NYC visting one of my closest friends and helping NYU pre-college students successfully write their college essays (I really think I made their writing only *worse*).
 - **Summer 2025** -> Got an internship and picked Chandler amongst the options of Charlotte, Des Moines, and Wilmington (even more ironic as two of my closest friends are from North Carolina and Delaware). Now I'm back in Arizona again, *fully by choice*.
 
