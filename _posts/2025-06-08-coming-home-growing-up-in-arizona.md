@@ -46,7 +46,7 @@ For one, the city has a considerably large, vibrant downtown scene. Additionally
 
 - **Embrace the weird beauty of it** - Arizona is not NYC, not SF, not Chicago -- it is it's own thing, and that's fine.
 - **Find your AC "third-spots"** - coffee shops, libraries, the gym--whatever it may be, make sure it has AC!
-- **Stay *hydrated* *** (yes, everyone says this, but actually follow this guideline!)
+- **Stay *hydrated*** (yes, everyone says this, but actually follow this guideline!)
 - **Appreciate your surroundings** - take an early-morning hike or a drive through the desert. The cactuses will outlive us all. Hell, *go to the Grand Canyon* if you haven't before, it is absolutely worth it.
 
 Every year, I think "this is the last Arizona summer."
