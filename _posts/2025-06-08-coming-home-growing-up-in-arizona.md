@@ -32,7 +32,7 @@ Honestly, **by sheer coincidence**. I applied to different internships all over,
 
 They are **tough**. There's a specific kind of noon heat that feels like walking into an oven (my mom's *verbatim description* of **walking out of Sky Harbor airport for the first time, coming from West Lafayette, Indiana**). However, nothing really can beat the sunset. Looking over Catalina Foothills on a summer evening is an indescribable feeling. 
 
-## What do you do when I get back? 
+## What do you do when you get back? 
 
 - **Frequent my favorite spots** - Highly recommend [Phuket Thai](https://www.visitchandler.com/listing/phuket-thai/768), [Joe's Farm Grill](https://www.joesfarmgrill.com/), or [The Dhaba](https://the-dhaba.com/) if you're in the Chandler/Tempe suburbs.
 - **See friends from middle/high school** - the ones still here or back for summer. 
