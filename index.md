@@ -9,7 +9,7 @@ title: Home
 
 Hi, I'm Nav! I'm a senior at NYU studying Data Science & Ethical Innovation Systems. 
 
-I'm originally from Chandler, Arizona and currently reside in the Financial District, NY. 
+I'm originally from Chandler, Arizona and currently reside in FiDi. 
 
 Currently, I'm conducting research at the [NYU Stern School of Business](https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/tops), focusing on platform governance & intellectual property rights within streaming services. 
 
