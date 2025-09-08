@@ -11,7 +11,7 @@ Hi, I'm Nav! I'm a senior at NYU studying Data Science & Ethical Innovation Syst
 
 I'm originally from Chandler, Arizona and currently reside in FiDi. 
 
-Currently, I'm conducting research at the [NYU Stern School of Business](https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/tops), focusing on platform governance & intellectual property rights within streaming services. 
+Currently, I'm conducting research at the [**NYU Stern School of Business**](https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/tops), focusing on **platform governance & intellectual property rights within streaming services**. 
 
 I am on the board of the [Albert Gallatin Founders Fund](https://forms.gallatin.nyu.edu/node/782), NYU's student-run venture fund. This past summer, I worked as an analyst at Wells Fargo, specifically on **Product, Analytics, & Digital Innovation** within [Auto](https://www.wellsfargo.com/auto-loans/).
 
