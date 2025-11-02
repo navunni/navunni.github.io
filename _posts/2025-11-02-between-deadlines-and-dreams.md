@@ -25,7 +25,7 @@ Outside my project, I have a lighter courseload than previous semesters; granted
 
 Life has been quite decent, for the most part, outside of class. One thing that I did consistently in September and Early October was sit by myself a few times a week, without any devices, in Washington Square Park. As cliche as it sounds, it is satisfying to "live in the present" and "absorb all the sights around you". Unironically, one ends up feeling a lot better afterwards. 
 
-And then the biggest piece of news: my [first Malayalam film song](https://open.spotify.com/track/4OzL11p8vvcUrBNnuH1vyJ) released in August. It still feels quite surreal to say that. Watching the movie on the big screen with the Legend himself, **Mohanlal uncle**, and hearing my voice alongside him in [Sathyan uncle's film](https://en.wikipedia.org/wiki/Hridayapoorvam)--it is something that I will cherish for the rest of my life. 
+And then the biggest piece of news: my [first Malayalam film song](https://open.spotify.com/track/4OzL11p8vvcUrBNnuH1vyJ) released in August. It still feels quite surreal to say that. Watching the movie on the big screen with the legend himself, **Mohanlal uncle**, and hearing my voice alongside him in [Sathyan uncle's film](https://en.wikipedia.org/wiki/Hridayapoorvam)--it is something that I will cherish for the rest of my life. 
 
 ## 3. The Things You Don't Plan For
 
