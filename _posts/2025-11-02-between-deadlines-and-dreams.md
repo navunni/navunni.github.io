@@ -29,7 +29,7 @@ And then the biggest piece of news: my [first Malayalam film song](https://open.
 
 ## 3. The Things You Don't Plan For
 
-Not everything this year has been easy however. My grandfather was diagnosed with a terminal illness earlier this year and that news hit me harder than I expected. 
+Not everything this year has been easy however. My grandfather was diagnosed with a terminal illness mid-September and that news hit me harder than I expected. 
 
 I knew something was up when my dad called me and told me that ***Achachan*** (Malayalam word for grandfather) wasn't feeling too well; I initially dismissed it as him merely having the flu or a slight fever but my worst fears were confirmed when I talked to my mom. For a while, I lost my momentum. It's strange how grief makes time blurry and things start to feel **important and meaningless** *simultaneously*. 
 
