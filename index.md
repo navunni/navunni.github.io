@@ -7,7 +7,7 @@ title: Home
 
 <img src="/assets/headshot.jpeg" alt="My Headshot" class="headshot">
 
-Hi, I'm Nav! I'm a senior at NYU studying Data Science & Ethical Innovation Systems. 
+Hi, I'm Nav! I recently graduated from NYU with my BA in last December. 
 
 I grew up in Chandler, Arizona and currently reside in Manhattan.
 
