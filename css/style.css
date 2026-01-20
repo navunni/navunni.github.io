@@ -103,3 +103,11 @@ nav.topnav {
   vertical-align: middle;
 }
 
+.callout {
+  font-size: 1.1rem;
+  font-style: italic;
+  border-left: 3px solid #999;
+  padding-left: 1rem;
+  margin: 1.5rem 0;
+  color: #333;
+}
