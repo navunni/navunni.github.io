@@ -3,11 +3,11 @@ layout: default
 title: Home
 ---
 
-# Nav Unnikrishnan
+# Navaneeth Unnikrishnan
 
 <img src="/assets/headshot.jpeg" alt="My Headshot" class="headshot">
 
-Hi, I'm Nav! I graduated from NYU with my BA last December. 
+Hi, I'm Navaneeth! I graduated from NYU with my BA last December. 
 
 I grew up in Chandler, Arizona and now reside in Manhattan. 
 
